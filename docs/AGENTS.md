@@ -142,3 +142,16 @@ Use verification commands only once the app exists:
 - Keep .env.example placeholder-only.
 - Do not deploy without explicit deployment task.
 - Do not enable backend, database, payment, auth, inventory, admin, or ecommerce tools unless a later plan explicitly approves them.
+
+-----------------
+## Stitch folder structure
+
+Canonical local Stitch structure:
+
+- stitch/raw/
+- stitch/screens/
+- stitch/assets/
+- stitch/notes/
+- stitch/implementation-reference/
+
+If older fetched files exist under JS-Auto-Parts-Website/stitch/, treat them as imported source material only. Do not rely on the nested folder as the canonical implementation path.

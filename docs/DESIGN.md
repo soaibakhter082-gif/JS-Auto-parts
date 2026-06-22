@@ -1,4 +1,4 @@
-# DESIGN.md
+﻿# DESIGN.md
 
 ## Product
 JS Auto Parts responsive website
@@ -194,7 +194,7 @@ Contact cards, hours card, address card, WhatsApp CTA, styled location/address b
 - Avoid animation that flashes or distracts
 
 ## Codex Environment Notes
-Environment plan exists: no.
+Environment plan exists: yes — see docs/STACK.md, docs/WEBSITE_BUILD_PLAN.md, docs/CODEX_TASKS.md, .codex/, and .agents/skills..
 
 Codex must not start implementation from this file yet.
 
@@ -218,3 +218,5 @@ Before Codex:
 
 ## Handoff Notes
 This DESIGN.md is a design exploration draft only. It can become Codex-ready after PRD, MVP scope, and Codex Environment Planner output exist.
+
+
