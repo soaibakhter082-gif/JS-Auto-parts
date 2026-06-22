@@ -1,0 +1,240 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/",
+    "slug": "home",
+    "title": "JS Auto Parts Khordha | Auto Parts & Vehicle Accessories",
+    "url": "http://localhost:3002/",
+    "h1": "JS Auto Parts in Khordha",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-home-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-home-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/product-categories",
+    "slug": "product-categories",
+    "title": "Auto Parts & Accessories Categories | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/product-categories",
+    "h1": "Product Categories at JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-product-categories-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-product-categories-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/products",
+    "slug": "products",
+    "title": "Ask Availability for Auto Parts | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/products",
+    "h1": "Products and Product Enquiry",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-products-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-products-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/request-quote",
+    "slug": "request-quote",
+    "title": "Request Quote for Auto Parts | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/request-quote",
+    "h1": "Request Quote",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-request-quote-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-request-quote-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/about",
+    "slug": "about",
+    "title": "About JS Auto Parts | 25+ Years Local Trust in Khordha",
+    "url": "http://localhost:3002/about",
+    "h1": "About JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-about-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-about-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/contact",
+    "slug": "contact",
+    "title": "Contact JS Auto Parts Khordha | Call or WhatsApp",
+    "url": "http://localhost:3002/contact",
+    "h1": "Contact JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-contact-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-contact-full.png"
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1200,
+    "path": "/test404",
+    "slug": "not-found",
+    "title": "JS Auto Parts Khordha | Auto Parts & Vehicle Accessories",
+    "url": "http://localhost:3002/test404",
+    "h1": "Page Not Found",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-not-found-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\desktop\\desktop-not-found-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/",
+    "slug": "home",
+    "title": "JS Auto Parts Khordha | Auto Parts & Vehicle Accessories",
+    "url": "http://localhost:3002/",
+    "h1": "JS Auto Parts in Khordha",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-home-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-home-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/product-categories",
+    "slug": "product-categories",
+    "title": "Auto Parts & Accessories Categories | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/product-categories",
+    "h1": "Product Categories at JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-product-categories-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-product-categories-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/products",
+    "slug": "products",
+    "title": "Ask Availability for Auto Parts | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/products",
+    "h1": "Products and Product Enquiry",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-products-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-products-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/request-quote",
+    "slug": "request-quote",
+    "title": "Request Quote for Auto Parts | JS Auto Parts Khordha",
+    "url": "http://localhost:3002/request-quote",
+    "h1": "Request Quote",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-request-quote-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-request-quote-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/about",
+    "slug": "about",
+    "title": "About JS Auto Parts | 25+ Years Local Trust in Khordha",
+    "url": "http://localhost:3002/about",
+    "h1": "About JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-about-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-about-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/contact",
+    "slug": "contact",
+    "title": "Contact JS Auto Parts Khordha | Call or WhatsApp",
+    "url": "http://localhost:3002/contact",
+    "h1": "Contact JS Auto Parts",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-contact-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-contact-full.png"
+    }
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "path": "/test404",
+    "slug": "not-found",
+    "title": "JS Auto Parts Khordha | Auto Parts & Vehicle Accessories",
+    "url": "http://localhost:3002/test404",
+    "h1": "Page Not Found",
+    "readyState": "complete",
+    "hasHydrationOverlayText": false,
+    "logs": [],
+    "files": {
+      "fold": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-not-found-fold.png",
+      "full": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\mobile\\mobile-not-found-full.png"
+    }
+  }
+]

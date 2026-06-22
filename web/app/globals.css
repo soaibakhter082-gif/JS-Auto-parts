@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0b0d10;
+  --foreground: #f5f7f8;
+  --surface: #12161b;
+  --surface-strong: #171c21;
+  --muted: #9ba8b2;
+  --accent: #00e5ff;
+  --call: #ffb300;
+  --whatsapp: #25d366;
+  --font-sans:
+    "Segoe UI", "Helvetica Neue", Helvetica, Arial, ui-sans-serif, sans-serif;
+  --font-mono:
+    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Monaco, monospace;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-strong: var(--surface-strong);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-call: var(--call);
+  --color-whatsapp: var(--whatsapp);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgb(0 229 255 / 0.12), transparent 30%),
+    linear-gradient(180deg, #0b0d10 0%, #090b0d 100%);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+a {
+  text-underline-offset: 0.18em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
