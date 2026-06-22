@@ -1,0 +1,8 @@
+﻿{
+  "note": "Placeholder hooks file. Replace with trusted app-factory PreToolUse safety hook before implementation if required.",
+  "policy": {
+    "noDeployWithoutApproval": true,
+    "noDestructiveCommandsWithoutApproval": true,
+    "noSecretsInRepo": true
+  }
+}
