@@ -1,0 +1,677 @@
+[
+  {
+    "file": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\header-icon-fix\\mobile-home-360-header.png",
+    "route": "/",
+    "anchors": [
+      {
+        "aria": "",
+        "display": "flex",
+        "height": 44,
+        "href": "/",
+        "text": "JS Auto Parts",
+        "width": 167.9875030517578
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/",
+        "text": "Home",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/product-categories",
+        "text": "Categories",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/products",
+        "text": "Enquiry",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/request-quote",
+        "text": "Request Quote",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/about",
+        "text": "About",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/contact",
+        "text": "Contact",
+        "width": 0
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "tel:9937940267",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "WhatsApp JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "tel:9937940267",
+        "text": "Call 9937940267",
+        "width": 0
+      },
+      {
+        "aria": "Message JS Auto Parts on WhatsApp at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "WhatsApp 9937940267",
+        "width": 0
+      }
+    ],
+    "callAria": "Call JS Auto Parts at 9937940267",
+    "callHref": "tel:9937940267",
+    "callRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 232.8000030517578,
+      "right": 276.8000030517578,
+      "top": 16,
+      "width": 44
+    },
+    "callVisible": true,
+    "desktopCallTextVisible": true,
+    "desktopWhatsTextVisible": true,
+    "desktopWhatsVisible": false,
+    "headerHeight": 76.80000305175781,
+    "logoRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 16,
+      "right": 183.9875030517578,
+      "top": 16,
+      "width": 167.9875030517578
+    },
+    "logoVisible": true,
+    "mainTop": 76.80000305175781,
+    "menuVisible": false,
+    "overflow": 0,
+    "overlapLogoCall": false,
+    "overlapLogoWhats": false,
+    "whatsAria": "WhatsApp JS Auto Parts at 9937940267",
+    "whatsHref": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+    "whatsRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 284.8000183105469,
+      "right": 328.8000183105469,
+      "top": 16,
+      "width": 44
+    },
+    "whatsVisible": true,
+    "width": 360
+  },
+  {
+    "file": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\header-icon-fix\\mobile-contact-390-header.png",
+    "route": "/contact",
+    "anchors": [
+      {
+        "aria": "",
+        "display": "flex",
+        "height": 44,
+        "href": "/",
+        "text": "JS Auto Parts",
+        "width": 167.9875030517578
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/",
+        "text": "Home",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/product-categories",
+        "text": "Categories",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/products",
+        "text": "Enquiry",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/request-quote",
+        "text": "Request Quote",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/about",
+        "text": "About",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/contact",
+        "text": "Contact",
+        "width": 0
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "tel:9937940267",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "WhatsApp JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "tel:9937940267",
+        "text": "Call 9937940267",
+        "width": 0
+      },
+      {
+        "aria": "Message JS Auto Parts on WhatsApp at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "WhatsApp 9937940267",
+        "width": 0
+      }
+    ],
+    "callAria": "Call JS Auto Parts at 9937940267",
+    "callHref": "tel:9937940267",
+    "callRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 263.20001220703125,
+      "right": 307.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "callVisible": true,
+    "desktopCallTextVisible": true,
+    "desktopWhatsTextVisible": true,
+    "desktopWhatsVisible": false,
+    "headerHeight": 76.80000305175781,
+    "logoRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 16,
+      "right": 183.9875030517578,
+      "top": 16,
+      "width": 167.9875030517578
+    },
+    "logoVisible": true,
+    "mainTop": 76.80000305175781,
+    "menuVisible": false,
+    "overflow": 0,
+    "overlapLogoCall": false,
+    "overlapLogoWhats": false,
+    "whatsAria": "WhatsApp JS Auto Parts at 9937940267",
+    "whatsHref": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+    "whatsRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 315.20001220703125,
+      "right": 359.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "whatsVisible": true,
+    "width": 390
+  },
+  {
+    "file": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\header-icon-fix\\mobile-request-quote-414-header.png",
+    "route": "/request-quote",
+    "anchors": [
+      {
+        "aria": "",
+        "display": "flex",
+        "height": 44,
+        "href": "/",
+        "text": "JS Auto Parts",
+        "width": 167.9875030517578
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/",
+        "text": "Home",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/product-categories",
+        "text": "Categories",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/products",
+        "text": "Enquiry",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/request-quote",
+        "text": "Request Quote",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/about",
+        "text": "About",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/contact",
+        "text": "Contact",
+        "width": 0
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "tel:9937940267",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "WhatsApp JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "tel:9937940267",
+        "text": "Call 9937940267",
+        "width": 0
+      },
+      {
+        "aria": "Message JS Auto Parts on WhatsApp at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "WhatsApp 9937940267",
+        "width": 0
+      }
+    ],
+    "callAria": "Call JS Auto Parts at 9937940267",
+    "callHref": "tel:9937940267",
+    "callRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 287.20001220703125,
+      "right": 331.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "callVisible": true,
+    "desktopCallTextVisible": true,
+    "desktopWhatsTextVisible": true,
+    "desktopWhatsVisible": false,
+    "headerHeight": 76.80000305175781,
+    "logoRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 16,
+      "right": 183.9875030517578,
+      "top": 16,
+      "width": 167.9875030517578
+    },
+    "logoVisible": true,
+    "mainTop": 76.80000305175781,
+    "menuVisible": false,
+    "overflow": 0,
+    "overlapLogoCall": false,
+    "overlapLogoWhats": false,
+    "whatsAria": "WhatsApp JS Auto Parts at 9937940267",
+    "whatsHref": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+    "whatsRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 339.20001220703125,
+      "right": 383.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "whatsVisible": true,
+    "width": 414
+  },
+  {
+    "file": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\header-icon-fix\\mobile-product-categories-430-header.png",
+    "route": "/product-categories",
+    "anchors": [
+      {
+        "aria": "",
+        "display": "flex",
+        "height": 44,
+        "href": "/",
+        "text": "JS Auto Parts",
+        "width": 167.9875030517578
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/",
+        "text": "Home",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/product-categories",
+        "text": "Categories",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/products",
+        "text": "Enquiry",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/request-quote",
+        "text": "Request Quote",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/about",
+        "text": "About",
+        "width": 0
+      },
+      {
+        "aria": "",
+        "display": "inline",
+        "height": 0,
+        "href": "/contact",
+        "text": "Contact",
+        "width": 0
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "tel:9937940267",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "WhatsApp JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "",
+        "width": 44
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "tel:9937940267",
+        "text": "Call 9937940267",
+        "width": 0
+      },
+      {
+        "aria": "Message JS Auto Parts on WhatsApp at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "WhatsApp 9937940267",
+        "width": 0
+      }
+    ],
+    "callAria": "Call JS Auto Parts at 9937940267",
+    "callHref": "tel:9937940267",
+    "callRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 303.20001220703125,
+      "right": 347.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "callVisible": true,
+    "desktopCallTextVisible": true,
+    "desktopWhatsTextVisible": true,
+    "desktopWhatsVisible": false,
+    "headerHeight": 76.80000305175781,
+    "logoRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 16,
+      "right": 183.9875030517578,
+      "top": 16,
+      "width": 167.9875030517578
+    },
+    "logoVisible": true,
+    "mainTop": 76.80000305175781,
+    "menuVisible": false,
+    "overflow": 0,
+    "overlapLogoCall": false,
+    "overlapLogoWhats": false,
+    "whatsAria": "WhatsApp JS Auto Parts at 9937940267",
+    "whatsHref": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+    "whatsRect": {
+      "bottom": 60,
+      "height": 44,
+      "left": 355.20001220703125,
+      "right": 399.20001220703125,
+      "top": 16,
+      "width": 44
+    },
+    "whatsVisible": true,
+    "width": 430
+  },
+  {
+    "file": "D:\\Projects\\JS Auto parts website\\qa\\screenshots\\current\\header-icon-fix\\desktop-home-header.png",
+    "route": "/",
+    "anchors": [
+      {
+        "aria": "",
+        "display": "flex",
+        "height": 44,
+        "href": "/",
+        "text": "JS Auto Parts",
+        "width": 167.9875030517578
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 36,
+        "href": "/",
+        "text": "Home",
+        "width": 70.5
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 36,
+        "href": "/product-categories",
+        "text": "Categories",
+        "width": 99.5374984741211
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 36,
+        "href": "/products",
+        "text": "Enquiry",
+        "width": 80.5374984741211
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 56,
+        "href": "/request-quote",
+        "text": "Request Quote",
+        "width": 82.92500305175781
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 36,
+        "href": "/about",
+        "text": "About",
+        "width": 71.42500305175781
+      },
+      {
+        "aria": "",
+        "display": "block",
+        "height": 36,
+        "href": "/contact",
+        "text": "Contact",
+        "width": 81.23750305175781
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "tel:9937940267",
+        "text": "",
+        "width": 0
+      },
+      {
+        "aria": "WhatsApp JS Auto Parts at 9937940267",
+        "display": "inline-flex",
+        "height": 0,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "",
+        "width": 0
+      },
+      {
+        "aria": "Call JS Auto Parts at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "tel:9937940267",
+        "text": "Call 9937940267",
+        "width": 149.02500915527344
+      },
+      {
+        "aria": "Message JS Auto Parts on WhatsApp at 9937940267",
+        "display": "flex",
+        "height": 44,
+        "href": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+        "text": "WhatsApp 9937940267",
+        "width": 193.16250610351562
+      }
+    ],
+    "callAria": "Call JS Auto Parts at 9937940267",
+    "callHref": "tel:9937940267",
+    "callRect": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0
+    },
+    "callVisible": false,
+    "desktopCallTextVisible": true,
+    "desktopWhatsTextVisible": true,
+    "desktopWhatsVisible": true,
+    "headerHeight": 96.75,
+    "logoRect": {
+      "bottom": 69.97500038146973,
+      "height": 44,
+      "left": 88.4000015258789,
+      "right": 256.3875045776367,
+      "top": 25.975000381469727,
+      "width": 167.9875030517578
+    },
+    "logoVisible": true,
+    "mainTop": 96.75,
+    "menuVisible": false,
+    "overflow": 0,
+    "overlapLogoCall": false,
+    "overlapLogoWhats": false,
+    "whatsAria": "WhatsApp JS Auto Parts at 9937940267",
+    "whatsHref": "https://wa.me/919937940267?text=Hello%20JS%20Auto%20Parts%2C%20I%20want%20to%20enquire%20about%20auto%20parts%2Faccessories.",
+    "whatsRect": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0
+    },
+    "whatsVisible": false,
+    "width": 1280
+  }
+]

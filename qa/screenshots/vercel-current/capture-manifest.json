@@ -1,0 +1,287 @@
+{
+  "deploymentUrl": "https://js-auto-parts-st3s.vercel.app",
+  "generatedAt": "2026-06-23T11:42:26.4268296Z",
+  "screenshotCount": 28,
+  "captures": [
+    {
+      "route": "/",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-home-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/",
+      "timestamp": "2026-06-23T11:42:24.1949458Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-home-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/",
+      "timestamp": "2026-06-23T11:42:24.4978261Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/product-categories",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-product-categories-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/product-categories",
+      "timestamp": "2026-06-23T11:42:24.7455527Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/product-categories",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-product-categories-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/product-categories",
+      "timestamp": "2026-06-23T11:42:24.9112177Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/products",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-products-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/products",
+      "timestamp": "2026-06-23T11:42:24.9958524Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/products",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-products-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/products",
+      "timestamp": "2026-06-23T11:42:25.1382204Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/request-quote",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-request-quote-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/request-quote",
+      "timestamp": "2026-06-23T11:42:25.2114514Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/request-quote",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-request-quote-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/request-quote",
+      "timestamp": "2026-06-23T11:42:25.3281875Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/about",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-about-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/about",
+      "timestamp": "2026-06-23T11:42:23.6974339Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/about",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-about-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/about",
+      "timestamp": "2026-06-23T11:42:23.8800839Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/contact",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-contact-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/contact",
+      "timestamp": "2026-06-23T11:42:23.9266616Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/contact",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-contact-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/contact",
+      "timestamp": "2026-06-23T11:42:24.1134775Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/test404",
+      "viewport": "desktop",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-not-found-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/test404",
+      "timestamp": "2026-06-23T11:42:24.5956256Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/test404",
+      "viewport": "desktop",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/desktop/desktop-not-found-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/test404",
+      "timestamp": "2026-06-23T11:42:24.6631052Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-home-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/",
+      "timestamp": "2026-06-23T11:42:25.7272627Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-home-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/",
+      "timestamp": "2026-06-23T11:42:25.9115163Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/product-categories",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-product-categories-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/product-categories",
+      "timestamp": "2026-06-23T11:42:25.9989046Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/product-categories",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-product-categories-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/product-categories",
+      "timestamp": "2026-06-23T11:42:26.1103657Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/products",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-products-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/products",
+      "timestamp": "2026-06-23T11:42:26.1435725Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/products",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-products-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/products",
+      "timestamp": "2026-06-23T11:42:26.3101035Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/request-quote",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-request-quote-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/request-quote",
+      "timestamp": "2026-06-23T11:42:26.3426436Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/request-quote",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-request-quote-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/request-quote",
+      "timestamp": "2026-06-23T11:42:26.4268296Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/about",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-about-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/about",
+      "timestamp": "2026-06-23T11:42:25.3463577Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/about",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-about-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/about",
+      "timestamp": "2026-06-23T11:42:25.4948588Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/contact",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-contact-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/contact",
+      "timestamp": "2026-06-23T11:42:25.5288226Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/contact",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-contact-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/contact",
+      "timestamp": "2026-06-23T11:42:25.7019717Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/test404",
+      "viewport": "mobile",
+      "screenshotType": "above-the-fold",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-not-found-fold.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/test404",
+      "timestamp": "2026-06-23T11:42:25.9272742Z",
+      "status": "success",
+      "success": true
+    },
+    {
+      "route": "/test404",
+      "viewport": "mobile",
+      "screenshotType": "full-page",
+      "filePath": "qa/screenshots/vercel-current/mobile/mobile-not-found-full.png",
+      "urlCaptured": "https://js-auto-parts-st3s.vercel.app/test404",
+      "timestamp": "2026-06-23T11:42:25.9764957Z",
+      "status": "success",
+      "success": true
+    }
+  ]
+}
