@@ -184,9 +184,9 @@ export function HomePage() {
                 </div>
                 <div className="rounded-2xl border border-white/8 bg-white/4 px-4 py-3">
                   <p className="text-sm leading-7 text-[var(--color-muted)]">
-                    This map shows a Google Maps search for the shop address in
-                    Khordha. Use the directions link to open it directly in
-                    Google Maps.
+                    This map shows the confirmed Google Maps location for the
+                    shop in Khordha. Use the directions link to open the same
+                    location directly in Google Maps.
                   </p>
                 </div>
                 <DirectionsLink className="w-full sm:w-auto" />
@@ -302,7 +302,7 @@ export function HomePage() {
           <SectionHeading
             eyebrow="Visit the Shop"
             title="Stop by in Khordha or get directions before visiting"
-            description={`${businessInfo.address}. ${businessInfo.hours}. Use the directions link to open the real address query in maps.`}
+            description={`${businessInfo.address}. ${businessInfo.hours}. Use the directions link to open the confirmed Google Maps location before you visit.`}
           />
           <div className="space-y-5 rounded-[1.5rem] border border-white/10 bg-white/4 p-6">
             <div>

@@ -177,9 +177,9 @@ export default function ContactPage() {
               Visit the shop with the real address and directions link
             </h2>
             <p className="text-base leading-8 text-[var(--color-muted)] sm:text-lg">
-              {businessInfo.address}. The map below uses a Google Maps search
-              for the shop address in Khordha, and the directions CTA opens the
-              same query directly in Google Maps.
+              {businessInfo.address}. The map below uses the confirmed Google
+              Maps location for the shop in Khordha, and the directions CTA
+              opens that same location directly in Google Maps.
             </p>
           </div>
 
@@ -202,9 +202,8 @@ export default function ContactPage() {
               </p>
             </div>
             <p className="text-sm leading-7 text-[var(--color-muted)]">
-              This is a Google Maps search/embed for the address location. If a
-              precise listing is unavailable, use the directions link as the
-              authoritative fallback.
+              This embed is aligned to the confirmed Google Maps location. Use
+              the directions link as the authoritative Google Maps destination.
             </p>
             <DirectionsLink className="w-full sm:w-auto" />
           </section>
