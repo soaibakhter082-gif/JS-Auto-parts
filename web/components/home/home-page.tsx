@@ -156,20 +156,40 @@ export function HomePage() {
               <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[var(--color-muted)]">
                 Garage Direction
               </p>
-              <div className="mt-5 h-40 rounded-[1.5rem] border border-white/8 bg-[radial-gradient(circle_at_top,rgba(0,229,255,0.22),transparent_35%),linear-gradient(180deg,#171c21_0%,#0f1215_100%)]" />
+              <div className="mt-5 overflow-hidden rounded-[1.5rem] border border-white/8 bg-[linear-gradient(180deg,#171c21_0%,#0f1215_100%)]">
+                <iframe
+                  src={businessInfo.mapsEmbedUrl}
+                  title="Google Map for JS Auto Parts in Khordha"
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  className="h-40 w-full"
+                />
+              </div>
               <div className="mt-6 space-y-4">
                 <div className="flex items-center justify-between rounded-2xl border border-white/8 bg-white/4 px-4 py-3">
                   <span className="text-sm text-[var(--color-muted)]">Location</span>
-                  <span className="text-sm font-medium text-white">Khordha, Odisha</span>
+                  <span className="text-right text-sm font-medium text-white">
+                    {businessInfo.address}
+                  </span>
                 </div>
                 <div className="flex items-center justify-between rounded-2xl border border-white/8 bg-white/4 px-4 py-3">
-                  <span className="text-sm text-[var(--color-muted)]">Availability</span>
-                  <span className="text-sm font-medium text-white">Call or WhatsApp</span>
+                  <span className="text-sm text-[var(--color-muted)]">Map Type</span>
+                  <span className="text-right text-sm font-medium text-white">
+                    Google Maps search
+                  </span>
                 </div>
                 <div className="flex items-center justify-between rounded-2xl border border-white/8 bg-white/4 px-4 py-3">
                   <span className="text-sm text-[var(--color-muted)]">Visit</span>
                   <span className="text-sm font-medium text-white">Open Every Day</span>
                 </div>
+                <div className="rounded-2xl border border-white/8 bg-white/4 px-4 py-3">
+                  <p className="text-sm leading-7 text-[var(--color-muted)]">
+                    This map shows a Google Maps search for the shop address in
+                    Khordha. Use the directions link to open it directly in
+                    Google Maps.
+                  </p>
+                </div>
+                <DirectionsLink className="w-full sm:w-auto" />
               </div>
             </div>
           </div>

@@ -1,3 +1,7 @@
+const mapsQuery =
+  "JS Auto Parts, Nayakothi Buxi Lane, Khordha, Odisha, India";
+const encodedMapsQuery = encodeURIComponent(mapsQuery);
+
 export const businessInfo = {
   businessName: "JS Auto Parts",
   ownerName: "SK Samir Bux",
@@ -8,6 +12,8 @@ export const businessInfo = {
   experience: "25+ Years Local Trust",
   telUrl: "tel:9937940267",
   whatsappUrl: "https://wa.me/919937940267",
+  mapsQuery,
+  mapsEmbedUrl: `https://maps.google.com/maps?q=${encodedMapsQuery}&output=embed`,
   directionsUrl:
-    "https://www.google.com/maps/search/?api=1&query=Nayakothi%20Buxi%20Lane%2C%20Khordha%2C%20Odisha",
+    `https://www.google.com/maps/search/?api=1&query=${encodedMapsQuery}`,
 } as const;

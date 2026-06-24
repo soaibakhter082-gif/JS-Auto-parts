@@ -177,12 +177,22 @@ export default function ContactPage() {
               Visit the shop with the real address and directions link
             </h2>
             <p className="text-base leading-8 text-[var(--color-muted)] sm:text-lg">
-              {businessInfo.address}. Use the directions CTA to open the real
-              address query in maps. No embedded map is used on this page.
+              {businessInfo.address}. The map below uses a Google Maps search
+              for the shop address in Khordha, and the directions CTA opens the
+              same query directly in Google Maps.
             </p>
           </div>
 
           <section className="space-y-5 rounded-[1.5rem] border border-white/10 bg-white/4 p-6">
+            <div className="overflow-hidden rounded-[1.5rem] border border-white/10 bg-[linear-gradient(180deg,#171c21_0%,#0f1215_100%)]">
+              <iframe
+                src={businessInfo.mapsEmbedUrl}
+                title="Google Map for JS Auto Parts in Khordha"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                className="h-56 w-full"
+              />
+            </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[var(--color-muted)]">
                 Address
@@ -191,6 +201,11 @@ export default function ContactPage() {
                 {businessInfo.address}
               </p>
             </div>
+            <p className="text-sm leading-7 text-[var(--color-muted)]">
+              This is a Google Maps search/embed for the address location. If a
+              precise listing is unavailable, use the directions link as the
+              authoritative fallback.
+            </p>
             <DirectionsLink className="w-full sm:w-auto" />
           </section>
         </div>
